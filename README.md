@@ -2,7 +2,7 @@
 
 1.
 
-[](./1.png)
+[](https://github.com/sandrogomes94/nervos-hackathon/raw/main/1.png)
 
 2.
 
